@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Shivam Shaw <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h1 align="center">Hey, I'm Raj Chatterjee <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <h2 align="center">Fullstack Web Developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamshaw07&label=Profile%20views&color=0e75b6&style=flat" alt="shivam" /> </p>

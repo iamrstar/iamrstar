@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Raj Chatterjee <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
-<h2 align="center">Fullstack Web Developer</h2>
+<h2 align="center">Front End  Web Developer</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamshaw07&label=Profile%20views&color=0e75b6&style=flat" alt="shivam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrstar&label=Profile%20views&color=0e75b6&style=flat" alt="Raj" /> </p>
 <!-- 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamshaw07&theme=dracula" alt="shivamshaw" /></a> </p>
  -->
@@ -9,8 +9,8 @@
 <img src="https://user-images.githubusercontent.com/71402528/126039381-d678d754-b37f-4ee6-a6c8-102444575094.png" height="200px" width="250px" alt="illustration" align="left">
 
  
-<a href="https://twitter.com/shivamshaw007" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/shivam-shaw/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm Shivam, I make elegantly professional 🌍 web apps for a living. I have a soft spot for technology and communities, Software Development, Developer Relations 💖! You can find my resume in my [*Portfolio](https://web-portfolio-seven-lemon.vercel.app/). I'm working on web development projects on GitHub for everybody to use which you can find here!  Nowadays, I’m learning NextJS and  NodeJS. I regularly practice DSA questions & here is the  [Leetcode*](https://leetcode.com/shivamshaw07/) profile and I'm always up for quick coding brainstorming sessions! I am an open source advocate.! <br>
+<a href="https://twitter.com/i_am__rstar" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/raj-chatterjee-a936a1211/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+Hey! I'm Raj, I make elegantly professional 🌍 web apps for a living. I have a soft spot for technology and communities, Software Development, Developer Relations 💖! You can find my resume in my [*Portfolio soon] I'm working on web development projects on GitHub for everybody to use which you can find here!  Nowadays, I’m learning NextJS and  NodeJS. I regularly practice DSA questions & here is the  [Leetcode*](https://leetcode.com/iamrstar/) profile and I'm always up for quick coding brainstorming sessions! I am an open source advocate.! <br>
 ✈ Hire me for remote work & internships
 
 - ⚡ Fun fact *i am a person who will push the door even if it says "PULL". XD*

@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrstar&label=Profile%20views&color=0e75b6&style=flat" alt="raj" /> </p>
 <!-- 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamrstar&theme=dracula" alt="Raj" /></a> </p>
- -->
+ 
  
 <img src="https://user-images.githubusercontent.com/71402528/126039381-d678d754-b37f-4ee6-a6c8-102444575094.png" height="200px" width="250px" alt="illustration" align="left">
 
@@ -20,7 +20,7 @@ Hey! I'm Raj, I make elegantly professional 🌍 web apps for a living. I have a
 - **Full Stack Developer Intern**, A1 Network and IT Solution  
   Worked on building and maintaining scalable web applications.  
 
-- **Develope INTERN**, Engineers Parcel (Startup)  
+- **Developer INTERN**, Engineers Parcel (Startup)  
   Leading development of an online parcel booking and tracking platform.  
 
 
@@ -66,7 +66,6 @@ Hey! I'm Raj, I make elegantly professional 🌍 web apps for a living. I have a
 
 
 <br><br><br>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=archishmansengupta&show_icons=true&locale=en&layout=compact" height="195" width="495" alt="archishmansengupta" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrstar&show_icons=true&locale=en" alt="Raj" /></p>
 

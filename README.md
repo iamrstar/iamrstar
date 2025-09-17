@@ -10,16 +10,20 @@
 
  
 <a href="https://twitter.com/i_am__rstar" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/raj-chatterjee-a936a1211/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm Raj, I make elegantly professional 🌍 web apps for a living. I have a soft spot for technology and communities, Software Development, Developer Relations 💖! You can find my resume in my [*Portfolio]. I'm working on web development projects on GitHub for everybody to use which you can find here!  Nowadays, I’m learning NextJS and  NodeJS. I regularly practice DSA questions & here is the  [Leetcode*](https://leetcode.com/iamrstar/) profile and I'm always up for quick coding brainstorming sessions! I am an open source advocate.! <br>
+Hey! I'm Raj, I make elegantly professional 🌍 web apps for a living. I have a soft spot for technology and communities, Software Development, Developer Relations 💖! You can find my resume in my [*Portfolio]. I'm working on web development projects on GitHub for everybody to use which you can find here!  Nowadays, I’m learning NextJS and  NodeJS and also the Devops.  I'm always up for quick coding brainstorming sessions! I am an open source advocate.! <br>
 ✈ Hire me for remote work & internships
 
 - ⚡ Fun fact *i am a person who will push the door even if it says "PULL". XD*
 
-<!-- ## Experience
-Application Developer Intern,IEM -IEDC, Funded by DST, Govt. of India Kolkata <br>
-<br>
-Open-Souce Contributer at GirlScript Foundation.
-1st Year, 1st Sem SGPA: 7.55 -->
+## Experience  
+
+- **Full Stack Developer Intern**, A1 Network and IT Solution  
+  Worked on building and maintaining scalable web applications.  
+
+- **Develope INTERN**, Engineers Parcel (Startup)  
+  Leading development of an online parcel booking and tracking platform.  
+
+
 
 <img src="https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif" height="400px" width="750px" alt="Twitter" align="center">
 
